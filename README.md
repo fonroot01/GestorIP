@@ -1,6 +1,6 @@
 # GestorIP - Cambia tu IP con un par de clics
 
-GestorIP es una herramienta gráfica desarrollada en Python actualmente disponible solo para Windows que permite cambiar la dirección IP de forma rápida y sencilla sin necesidad de usar la consola. Ideal para administradores de red, técnicos de soporte o entusiastas que necesitan modificar su configuración de red con frecuencia.
+GestorIP es una herramienta gráfica desarrollada en Python, que permite cambiar la dirección IP de forma rápida y sencilla sin necesidad de usar la consola. Ideal para administradores de red, técnicos de soporte o entusiastas que necesitan modificar su configuración de red con frecuencia.
 
 ## Características
 
