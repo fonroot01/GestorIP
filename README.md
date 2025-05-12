@@ -33,7 +33,7 @@ python Gestor_IP.py
 
 Si no tienes permisos de administrador, el script te pedirá autorización para reiniciarse con los privilegios necesarios.
 
-### ¿Cómo se usa?
+### ¿Como se usa?
 
 1. Abre la aplicación.
 
@@ -43,9 +43,17 @@ Si no tienes permisos de administrador, el script te pedirá autorización para 
 
 4. Haz clic en Cambiar IP.
 
+![ejecutando el programa](https://github.com/user-attachments/assets/eb092b60-15f6-4193-bcac-1a226b9f7c15)
+
+"IP cambiada" -->> ![IP cambiada](https://github.com/user-attachments/assets/b78ad666-12d7-4380-b8fa-51548d895c3c)
+
 5. Para volver a la configuración automática, presiona Restaurar DHCP.
 
-Personalización
+![restaurada](https://github.com/user-attachments/assets/6a379ce6-b545-4893-b724-fd85d7b9d1b3)
+
+"IP restablecida" -->> ![IP consola](https://github.com/user-attachments/assets/142163b7-d0d4-449c-93bc-83fbd28f5776)
+
+### Personalización
 Puedes agregar tu propio ícono modificando esta línea:
 ```bash
 root.iconbitmap("ruta/a/tu/icono.ico")
