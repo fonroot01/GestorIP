@@ -24,31 +24,39 @@ GestorIP es una herramienta gráfica desarrollada en Python actualmente disponib
 
 ```bash
 git clone https://github.com/fonroot01/GestorIP.git
+```
 
 ### Ejecuta el script:
-
+```bash
 python Gestor_IP.py
+```
 
 Si no tienes permisos de administrador, el script te pedirá autorización para reiniciarse con los privilegios necesarios.
 
-¿Cómo se usa?
-Abre la aplicación.
+### ¿Cómo se usa?
 
-Selecciona la interfaz de red que deseas configurar.
+1. Abre la aplicación.
 
-Ingresa la nueva IP y la máscara de subred.
+2. Selecciona la interfaz de red que deseas configurar.
 
-Haz clic en Cambiar IP.
+3. Ingresa la nueva IP y la máscara de subred.
 
-Para volver a la configuración automática, presiona Restaurar DHCP.
+4. Haz clic en Cambiar IP.
+
+5. Para volver a la configuración automática, presiona Restaurar DHCP.
 
 Personalización
 Puedes agregar tu propio ícono modificando esta línea:
-
+```bash
 root.iconbitmap("ruta/a/tu/icono.ico")
+```
 
 ⚠️ Nota
 El script debe ejecutarse como administrador para aplicar cambios en la configuración de red. Si no lo haces, el sistema te pedirá permisos.
 
-Autor
+### Autor
 Desarrollado por Alfonso Mosquera
+
+### Licencia
+Este proyecto es de código abierto bajo la licencia MIT.
+¡Puedes modificarlo, usarlo y compartirlo libremente!
